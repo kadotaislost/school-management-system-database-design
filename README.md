@@ -216,4 +216,4 @@ A comprehensive system for managing school operations, including user management
 
 ## ERD
 
-![ERD](image-url "school_management_ERD.png")
+![School Management System ERD](./school_management_ERD.png "Database Design")
